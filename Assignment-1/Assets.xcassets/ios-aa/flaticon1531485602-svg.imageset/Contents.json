@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "flaticon1531485602-svg.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "flaticon1531485602-svg@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "flaticon1531485602-svg@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
